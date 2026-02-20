@@ -4,6 +4,19 @@
     "title": "Apresentacao",
     "version": "1.0"
   },
-  "paths": { },
+  "paths": {
+    "/api/Usuario/ObterOK": {
+      "get": {
+        "tags": [
+          "Usuario"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
   "components": { }
 }

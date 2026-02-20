@@ -10,3 +10,4 @@ C:\Users\Windows 11\Desktop\Repo\DesafioTecnicoMaxiProd\Dominio\obj\Debug\net9.0
 C:\Users\Windows 11\Desktop\Repo\DesafioTecnicoMaxiProd\Dominio\obj\Debug\net9.0\Dominio.pdb
 C:\Users\Windows 11\Desktop\Repo\DesafioTecnicoMaxiProd\Dominio\obj\Debug\net9.0\ref\Dominio.dll
 C:\Users\Windows 11\Desktop\Repo\DesafioTecnicoMaxiProd\Dominio\obj\Debug\net9.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\Windows 11\Desktop\Repo\DesafioTecnicoMaxiProd\Dominio\obj\Debug\net9.0\Dominio.sourcelink.json

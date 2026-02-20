@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "ContainingType": "Apresentacao.Controllers.UsuarioController",
+    "Method": "TesteInicial",
+    "RelativePath": "api/Usuario/ObterOK",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

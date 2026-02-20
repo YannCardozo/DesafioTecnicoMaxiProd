@@ -13,3 +13,4 @@ C:\Users\Windows 11\Desktop\Repo\DesafioTecnicoMaxiProd\Aplicacao\obj\Debug\net9
 C:\Users\Windows 11\Desktop\Repo\DesafioTecnicoMaxiProd\Aplicacao\obj\Debug\net9.0\refint\Aplicacao.dll
 C:\Users\Windows 11\Desktop\Repo\DesafioTecnicoMaxiProd\Aplicacao\obj\Debug\net9.0\Aplicacao.pdb
 C:\Users\Windows 11\Desktop\Repo\DesafioTecnicoMaxiProd\Aplicacao\obj\Debug\net9.0\ref\Aplicacao.dll
+C:\Users\Windows 11\Desktop\Repo\DesafioTecnicoMaxiProd\Aplicacao\obj\Debug\net9.0\Aplicacao.sourcelink.json
