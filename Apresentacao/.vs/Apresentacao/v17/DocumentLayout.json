@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows 11\\Desktop\\Repo\\DesafioTecnicoMaxiProd\\Apresentacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{908EE8C1-B978-4878-B529-F2FD497D0C1A}|..\\InfraData\\InfraData.csproj|c:\\users\\windows 11\\desktop\\repo\\desafiotecnicomaxiprod\\infradata\\mappings\\transacoesmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908EE8C1-B978-4878-B529-F2FD497D0C1A}|..\\InfraData\\InfraData.csproj|c:\\users\\windows 11\\desktop\\repo\\desafiotecnicomaxiprod\\infradata\\mappings\\pessoamapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908EE8C1-B978-4878-B529-F2FD497D0C1A}|..\\InfraData\\InfraData.csproj|c:\\users\\windows 11\\desktop\\repo\\desafiotecnicomaxiprod\\infradata\\mappings\\entidadebasemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D019A976-6BD3-4ED0-B2E8-CA99FFEE73A7}|..\\Dominio\\Dominio.csproj|c:\\users\\windows 11\\desktop\\repo\\desafiotecnicomaxiprod\\dominio\\entidades\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D019A976-6BD3-4ED0-B2E8-CA99FFEE73A7}|..\\Dominio\\Dominio.csproj|c:\\users\\windows 11\\desktop\\repo\\desafiotecnicomaxiprod\\dominio\\entidades\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908EE8C1-B978-4878-B529-F2FD497D0C1A}|..\\InfraData\\InfraData.csproj|c:\\users\\windows 11\\desktop\\repo\\desafiotecnicomaxiprod\\infradata\\mappings\\categoriamapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D019A976-6BD3-4ED0-B2E8-CA99FFEE73A7}|..\\Dominio\\Dominio.csproj|c:\\users\\windows 11\\desktop\\repo\\desafiotecnicomaxiprod\\dominio\\entidades\\entidadebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D019A976-6BD3-4ED0-B2E8-CA99FFEE73A7}|..\\Dominio\\Dominio.csproj|c:\\users\\windows 11\\desktop\\repo\\desafiotecnicomaxiprod\\dominio\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEB2503-094C-438C-85CC-1459D420250C}|Apresentacao.csproj|c:\\users\\windows 11\\desktop\\repo\\desafiotecnicomaxiprod\\apresentacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DEB2503-094C-438C-85CC-1459D420250C}|Apresentacao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908EE8C1-B978-4878-B529-F2FD497D0C1A}|..\\InfraData\\InfraData.csproj|c:\\users\\windows 11\\desktop\\repo\\desafiotecnicomaxiprod\\infradata\\context\\contextprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D019A976-6BD3-4ED0-B2E8-CA99FFEE73A7}|..\\Dominio\\Dominio.csproj|c:\\users\\windows 11\\desktop\\repo\\desafiotecnicomaxiprod\\dominio\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransacoesMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Desktop\\Repo\\DesafioTecnicoMaxiProd\\InfraData\\Mappings\\TransacoesMapping.cs",
+              "RelativeDocumentMoniker": "..\\InfraData\\Mappings\\TransacoesMapping.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Desktop\\Repo\\DesafioTecnicoMaxiProd\\InfraData\\Mappings\\TransacoesMapping.cs",
+              "RelativeToolTip": "..\\InfraData\\Mappings\\TransacoesMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T04:39:57.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PessoaMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Desktop\\Repo\\DesafioTecnicoMaxiProd\\InfraData\\Mappings\\PessoaMapping.cs",
+              "RelativeDocumentMoniker": "..\\InfraData\\Mappings\\PessoaMapping.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Desktop\\Repo\\DesafioTecnicoMaxiProd\\InfraData\\Mappings\\PessoaMapping.cs",
+              "RelativeToolTip": "..\\InfraData\\Mappings\\PessoaMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T04:34:02.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntidadeBaseMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Desktop\\Repo\\DesafioTecnicoMaxiProd\\InfraData\\Mappings\\EntidadeBaseMapping.cs",
+              "RelativeDocumentMoniker": "..\\InfraData\\Mappings\\EntidadeBaseMapping.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Desktop\\Repo\\DesafioTecnicoMaxiProd\\InfraData\\Mappings\\EntidadeBaseMapping.cs",
+              "RelativeToolTip": "..\\InfraData\\Mappings\\EntidadeBaseMapping.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T04:02:25.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriaMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Desktop\\Repo\\DesafioTecnicoMaxiProd\\InfraData\\Mappings\\CategoriaMapping.cs",
+              "RelativeDocumentMoniker": "..\\InfraData\\Mappings\\CategoriaMapping.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Desktop\\Repo\\DesafioTecnicoMaxiProd\\InfraData\\Mappings\\CategoriaMapping.cs",
+              "RelativeToolTip": "..\\InfraData\\Mappings\\CategoriaMapping.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T03:37:00.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Desktop\\Repo\\DesafioTecnicoMaxiProd\\Apresentacao\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Desktop\\Repo\\DesafioTecnicoMaxiProd\\Apresentacao\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T03:36:24.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Desktop\\Repo\\DesafioTecnicoMaxiProd\\Dominio\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\Dominio\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Desktop\\Repo\\DesafioTecnicoMaxiProd\\Dominio\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "..\\Dominio\\Entidades\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T03:24:45.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntidadeBase.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Desktop\\Repo\\DesafioTecnicoMaxiProd\\Dominio\\Entidades\\EntidadeBase.cs",
+              "RelativeDocumentMoniker": "..\\Dominio\\Entidades\\EntidadeBase.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Desktop\\Repo\\DesafioTecnicoMaxiProd\\Dominio\\Entidades\\EntidadeBase.cs",
+              "RelativeToolTip": "..\\Dominio\\Entidades\\EntidadeBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T02:43:54.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Desktop\\Repo\\DesafioTecnicoMaxiProd\\Dominio\\Entidades\\Categoria.cs",
+              "RelativeDocumentMoniker": "..\\Dominio\\Entidades\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Desktop\\Repo\\DesafioTecnicoMaxiProd\\Dominio\\Entidades\\Categoria.cs",
+              "RelativeToolTip": "..\\Dominio\\Entidades\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T23:47:08.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transacao.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Desktop\\Repo\\DesafioTecnicoMaxiProd\\Dominio\\Entidades\\Transacao.cs",
+              "RelativeDocumentMoniker": "..\\Dominio\\Entidades\\Transacao.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Desktop\\Repo\\DesafioTecnicoMaxiProd\\Dominio\\Entidades\\Transacao.cs",
+              "RelativeToolTip": "..\\Dominio\\Entidades\\Transacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T23:46:58.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Desktop\\Repo\\DesafioTecnicoMaxiProd\\Dominio\\Entidades\\Pessoa.cs",
+              "RelativeDocumentMoniker": "..\\Dominio\\Entidades\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Desktop\\Repo\\DesafioTecnicoMaxiProd\\Dominio\\Entidades\\Pessoa.cs",
+              "RelativeToolTip": "..\\Dominio\\Entidades\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T23:46:30.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContextPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Desktop\\Repo\\DesafioTecnicoMaxiProd\\InfraData\\Context\\ContextPrincipal.cs",
+              "RelativeDocumentMoniker": "..\\InfraData\\Context\\ContextPrincipal.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Desktop\\Repo\\DesafioTecnicoMaxiProd\\InfraData\\Context\\ContextPrincipal.cs",
+              "RelativeToolTip": "..\\InfraData\\Context\\ContextPrincipal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T22:49:02.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
