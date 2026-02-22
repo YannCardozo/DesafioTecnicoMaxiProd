@@ -14,7 +14,7 @@ namespace Dominio.DAO
         public DateTime DataCadastro { get; set; }
         public DateTime DataAtualizacao { get; set; }
         public T QuemCadastrou { get; set; }
-        public T AtualizouPorUltimo { get; set; }
+        public T? AtualizouPorUltimo { get; set; }
 
 
         public void AlterarQuemAtualizou(T atualizou) => AtualizouPorUltimo = atualizou;

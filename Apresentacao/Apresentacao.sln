@@ -1,15 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36301.6 d17.14
+VisualStudioVersion = 17.14.36301.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apresentacao", "Apresentacao.csproj", "{4DEB2503-094C-438C-85CC-1459D420250C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "..\Dominio\Dominio.csproj", "{D019A976-6BD3-4ED0-B2E8-CA99FFEE73A7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfraData", "..\InfraData\InfraData.csproj", "{908EE8C1-B978-4878-B529-F2FD497D0C1A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicacao", "..\Aplicacao\Aplicacao.csproj", "{42DFB29C-5352-4ECE-B3E2-E6857A73DD8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +27,6 @@ Global
 		{908EE8C1-B978-4878-B529-F2FD497D0C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{908EE8C1-B978-4878-B529-F2FD497D0C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{908EE8C1-B978-4878-B529-F2FD497D0C1A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{42DFB29C-5352-4ECE-B3E2-E6857A73DD8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{42DFB29C-5352-4ECE-B3E2-E6857A73DD8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{42DFB29C-5352-4ECE-B3E2-E6857A73DD8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{42DFB29C-5352-4ECE-B3E2-E6857A73DD8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

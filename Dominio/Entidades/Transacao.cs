@@ -22,6 +22,14 @@ namespace Dominio.DAO
         public decimal Valor { get; set; }
         public string Tipo { get; set; }
 
+
+        // transacoes para 1 unica pessoa, variavel de navegação.
+        public Guid PessoaId { get; set; }
+        public Pessoa Pessoa { get; set; }
+
+        public Guid CategoriaId { get; set; }
+        public Categoria Categoria { get; set; }
+
         public void AlterarDescricao(string descricao) => Descricao = descricao;
         public void AlterarValor(decimal valor) => Valor = valor;
         public void AlterarTipo(string tipo) => Tipo = tipo;

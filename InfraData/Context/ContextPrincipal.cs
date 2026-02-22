@@ -1,4 +1,5 @@
-﻿using Dominio.Entidades;
+﻿using Dominio.DAO;
+using Dominio.Entidades;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
@@ -12,13 +13,14 @@ namespace InfraData.Context
 {
     public class ContextPrincipal : IdentityDbContext<Usuario, IdentityRole<Guid>, Guid>
     {
-        //implementar IDENTITY ainda aqui.
         public ContextPrincipal(DbContextOptions<ContextPrincipal> options) : base(options)
         {
 
         }
 
-        //public dbset entidades, populas as entidades aqui.
+        public DbSet<Categoria> Categorias { get; set; }
+        public DbSet<Pessoa> Pessoas { get; set; }
+        public DbSet<Transacao> Transacoes { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

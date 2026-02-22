@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rG7APchotLE=",
+  "dgSpecHash": "nhNKkukWhns=",
   "success": true,
   "projectFilePath": "C:\\Users\\Windows 11\\Desktop\\Repo\\DesafioTecnicoMaxiProd\\InfraData\\InfraData.csproj",
   "expectedPackageFiles": [
@@ -46,6 +46,7 @@
     "C:\\Users\\Windows 11\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\9.0.6\\microsoft.entityframeworkcore.sqlite.9.0.6.nupkg.sha512",
     "C:\\Users\\Windows 11\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\9.0.6\\microsoft.entityframeworkcore.sqlite.core.9.0.6.nupkg.sha512",
     "C:\\Users\\Windows 11\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\9.0.6\\microsoft.entityframeworkcore.sqlserver.9.0.6.nupkg.sha512",
+    "C:\\Users\\Windows 11\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\9.0.6\\microsoft.entityframeworkcore.tools.9.0.6.nupkg.sha512",
     "C:\\Users\\Windows 11\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.6\\microsoft.extensions.caching.abstractions.9.0.6.nupkg.sha512",
     "C:\\Users\\Windows 11\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.6\\microsoft.extensions.caching.memory.9.0.6.nupkg.sha512",
     "C:\\Users\\Windows 11\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.6\\microsoft.extensions.configuration.abstractions.9.0.6.nupkg.sha512",

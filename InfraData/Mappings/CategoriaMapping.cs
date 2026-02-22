@@ -32,7 +32,6 @@ namespace InfraData.Mappings
                 .HasColumnType("varchar")
                 .HasMaxLength(20);
 
-
             //entidade Base
             builder
                 .AplicarEntidadeBase();

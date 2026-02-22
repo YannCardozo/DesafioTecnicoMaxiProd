@@ -19,7 +19,7 @@ namespace Dominio.DAO
 
         public string Descricao  { get; set; }
         public string Finalidade { get; set; }
-
+        public ICollection<Transacao> Transacoes { get; set; } = new List<Transacao>();
 
         public void AlterarDescricao(string descricao) => Descricao = descricao;
         public void AlterarFinalidade(string finalidade) => Finalidade = finalidade;

@@ -1,8 +1,244 @@
 [
   {
-    "ContainingType": "Apresentacao.Controllers.UsuarioController",
+    "ContainingType": "Apresentacao.Controllers.CategoriasController",
+    "Method": "ObterCategorias",
+    "RelativePath": "api/Categorias/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Apresentacao.Controllers.CategoriasController",
+    "Method": "CadastrarCategoria",
+    "RelativePath": "api/Categorias/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Apresentacao.DTO.Categorias.CadastrarCategoriaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Apresentacao.Controllers.CategoriasController",
+    "Method": "DeletarCategoria",
+    "RelativePath": "api/Categorias/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Apresentacao.Controllers.CategoriasController",
+    "Method": "ObterCategoriaPorId",
+    "RelativePath": "api/Categorias/id/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Apresentacao.Controllers.CategoriasController",
+    "Method": "ObterCategoriasComTransacoes",
+    "RelativePath": "api/Categorias/totais",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Apresentacao.Controllers.CategoriasController",
+    "Method": "AtualizarCategoria",
+    "RelativePath": "api/Categorias/update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Apresentacao.DTO.Categorias.CategoriaUpdateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Apresentacao.Controllers.PessoasController",
+    "Method": "ObterPessoas",
+    "RelativePath": "api/Pessoas/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Apresentacao.Controllers.PessoasController",
+    "Method": "CadastrarPessoa",
+    "RelativePath": "api/Pessoas/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Apresentacao.DTO.Pessoas.CadastrarPessoaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Apresentacao.Controllers.PessoasController",
+    "Method": "DeletarPessoa",
+    "RelativePath": "api/Pessoas/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Apresentacao.Controllers.PessoasController",
+    "Method": "ObterPessoaPorId",
+    "RelativePath": "api/Pessoas/id/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Apresentacao.Controllers.PessoasController",
+    "Method": "AtualizarPessoa",
+    "RelativePath": "api/Pessoas/update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Apresentacao.DTO.Pessoas.PessoaUpdateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Apresentacao.Controllers.Testecontroller",
+    "Method": "CriarTabelasIdentity",
+    "RelativePath": "api/Teste/TabelasTeste",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Apresentacao.Controllers.TransacoesController",
+    "Method": "ObterTransacoes",
+    "RelativePath": "api/Transacoes/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Apresentacao.Controllers.TransacoesController",
+    "Method": "CadastrarTransacao",
+    "RelativePath": "api/Transacoes/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Apresentacao.DTO.Transacoes.CadastrarTransacaoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Apresentacao.Controllers.TransacoesController",
+    "Method": "DeletarTransacao",
+    "RelativePath": "api/Transacoes/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Apresentacao.Controllers.TransacoesController",
+    "Method": "ObterTransacaoPorId",
+    "RelativePath": "api/Transacoes/id/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Apresentacao.Controllers.UsuariosController",
     "Method": "TesteInicial",
-    "RelativePath": "api/Usuario/ObterOK",
+    "RelativePath": "api/Usuarios/ObterOK",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

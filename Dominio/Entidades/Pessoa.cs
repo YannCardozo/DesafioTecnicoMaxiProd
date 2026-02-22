@@ -17,8 +17,12 @@ namespace Dominio.DAO
             Nome = nome;
             Idade = idade;
         }
+
         public string Nome { get; set; }
         public int Idade { get; set; }
+
+        //relacionamento  1 - n
+        public ICollection<Transacao> Transacoes { get; set; } = new List<Transacao>();
 
         public void AlterarNome(string nome) => Nome = nome;
         public void AlterarIdade(int idade) => Idade = idade;

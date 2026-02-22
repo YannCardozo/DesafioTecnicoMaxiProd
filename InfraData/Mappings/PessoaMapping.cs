@@ -23,12 +23,18 @@ namespace InfraData.Mappings
                 .Property(o => o.Nome)
                 .HasColumnName("Nome")
                 .HasColumnType("varchar")
-                .HasMaxLength(100);
+                .HasMaxLength(200);
 
             builder
                 .Property(o => o.Idade)
                 .HasColumnName("Idade")
                 .HasColumnType("int");
+
+            builder
+                .HasMany(o => o.Transacoes)
+                .WithOne(o => o.Pessoa)
+                .HasForeignKey(o => o.PessoaId)
+                .OnDelete(DeleteBehavior.Cascade);
 
             //entidade base
             builder.AplicarEntidadeBase();

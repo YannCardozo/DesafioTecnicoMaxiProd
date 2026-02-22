@@ -24,7 +24,7 @@ namespace InfraData.Mappings
                 .Property(o => o.Descricao)
                 .HasColumnName("Descricao")
                 .HasColumnType("varchar")
-                .HasMaxLength(300);
+                .HasMaxLength(400);
 
             builder
                 .Property(o => o.Valor)
@@ -36,6 +36,21 @@ namespace InfraData.Mappings
                 .HasColumnName("Tipo")
                 .HasColumnType("varchar")
                 .HasMaxLength(50);
+
+            builder
+                .Property(o => o.CategoriaId)
+                .HasColumnName("CategoriaId")
+                .IsRequired();
+
+
+            //restringindo o delete caso tenha alguma categoria populada.
+            builder
+                .HasOne(o => o.Categoria)
+                .WithMany(o => o.Transacoes)
+                .HasForeignKey(o => o.CategoriaId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+
 
             //entidade base
             builder.AplicarEntidadeBase();
